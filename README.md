@@ -1,5 +1,5 @@
-# 3D URP Unity Project Template
-    Project template for Unity: 3D URP
+# Essentials Unity Project Template
+    Project template for Unity: Essentials (Good for tutorials setup (not graphics related, not using URP)
 
 ## Packages
     com.unity.2d.psdimporter: 6.0.6,

@@ -5,8 +5,6 @@
     com.unity.2d.psdimporter: 6.0.6,
     com.unity.ide.visualstudio: 2.0.16,
     com.unity.inputsystem: 1.4.4,
-    com.unity.render-pipelines.universal: 12.1.8,
-    com.unity.shadergraph: 12.1.8,
     com.unity.textmeshpro: 3.0.6,
     com.unity.ugui: 1.0.0,
     com.unity.modules.animation: 1.0.0,
@@ -39,7 +37,7 @@
     Version      : 0.0.01
 
 ### Physics
-    Gravity           : -50 in z axis
+    Gravity           : -9.81 in z axis
     Default Material  : Default Material (Assets/Template/Default Material)
     Layer Collision Matrix :
         Enemy / Player Static Collider
@@ -56,9 +54,8 @@
         Reload Domain & Reload Scene : False
 
 ## Assets
-    URP Asset
-
-### Scenes
-    SampleScene
-### Template
     Default Material.physicsMaterial2D
+    Global Light Settings
+    Input System Settings
+    Scene Template
+    
